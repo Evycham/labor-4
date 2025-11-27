@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personen>
+ <person id="1">
+  <nachname>null</nachname>
+  <vorname>Max</vorname>
+  <geburtsdatum>25.11.1983</geburtsdatum>
+  <postleitzahl>54321</postleitzahl>
+  <ort>Bierdorf</ort>
+  <hobby>Prokrastinieren</hobby>
+  <lieblingsgericht>Zucker</lieblingsgericht>
+  <lieblingsband>BTS</lieblingsband>
+ </person>
+ <person id="2">
+  <nachname>null</nachname>
+  <vorname>Petra</vorname>
+  <geburtsdatum>13.04.1990</geburtsdatum>
+  <postleitzahl>76543</postleitzahl>
+  <ort>Bierdorf</ort>
+  <hobby>Tanzen</hobby>
+  <lieblingsgericht>Brot</lieblingsgericht>
+  <lieblingsband>ABBA</lieblingsband>
+ </person>
+ <person id="3">
+  <nachname>vorname</nachname>
+  <vorname>name</vorname>
+  <geburtsdatum>10.08.2002</geburtsdatum>
+  <postleitzahl>12345</postleitzahl>
+  <ort>ort</ort>
+  <hobby>hobby</hobby>
+  <lieblingsgericht>lg</lieblingsgericht>
+  <lieblingsband>lb</lieblingsband>
+ </person>
+ <person id="4">
+  <nachname>vorname</nachname>
+  <vorname>name</vorname>
+  <geburtsdatum>10.08.2002</geburtsdatum>
+  <postleitzahl>12345</postleitzahl>
+  <ort>ort</ort>
+  <hobby>hobby</hobby>
+  <lieblingsgericht>lg</lieblingsgericht>
+  <lieblingsband>lb</lieblingsband>
+ </person>
+ <person id="5">
+  <nachname>vorname</nachname>
+  <vorname>name</vorname>
+  <geburtsdatum>10.08.2002</geburtsdatum>
+  <postleitzahl>12345</postleitzahl>
+  <ort>ort</ort>
+  <hobby>hobby</hobby>
+  <lieblingsgericht>lg</lieblingsgericht>
+  <lieblingsband>lb</lieblingsband>
+ </person>
+ <person id="6">
+  <nachname>vorname</nachname>
+  <vorname>name</vorname>
+  <geburtsdatum>10.08.2002</geburtsdatum>
+  <postleitzahl>12345</postleitzahl>
+  <ort>ort</ort>
+  <hobby>hobby</hobby>
+  <lieblingsgericht>lg</lieblingsgericht>
+  <lieblingsband>lb</lieblingsband>
+ </person>
+</personen>
