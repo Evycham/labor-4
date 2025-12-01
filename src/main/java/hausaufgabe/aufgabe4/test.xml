@@ -4,20 +4,20 @@
         <nachname>Quill</nachname>
         <alias>Starlord</alias>
     </person>
+
     <person>
         <vorname>Rocket</vorname>
         <nachname>Racoon</nachname>
         <alias>---</alias>
     </person>
-</team>
 
-<team>
     <person>
         <nachname>Quill</nachname>
         <vorname>Peter</vorname>
         <vorname>Albert</vorname>
         <alias>Starlord</alias>
     </person>
+
     <person>
         <vorname>Rocket</vorname>
         <alias>---</alias>
